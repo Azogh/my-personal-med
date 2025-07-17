@@ -1,0 +1,7 @@
+{
+  "name": "my-personal-med",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
